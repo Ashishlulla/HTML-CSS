@@ -1,0 +1,27 @@
+/* inline style attribute > ID selector > Class selector > element selector */
+/* h1{ */
+    /* color:green;
+}
+
+h1.heading{
+    color:red;
+}
+
+.h1class{
+    color:royalblue;
+} */
+
+/* #h1id{
+    color:hotpink !important;
+} */
+/* 
+div#contains ul.mysongs li{
+    color:rebeccapurple;
+    background-color: saddlebrown;
+}
+
+div#contains ul.mysongs li.favourite{
+    color:yellow; */
+}
+/* 0,0,1,0 ---> 10 */
+/* 0,1,2,3 ---> 123   new specificity */
