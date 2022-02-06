@@ -1,0 +1,94 @@
+/* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@300&family=Roboto:ital,wght@0,400;0,700;1,300;1,500&display=swap');
+
+h1{
+    color:rgb(230, 113, 113);
+}
+body{
+    font-family: Arial;
+    font-weight: 700;
+}
+
+#main-heading{
+    background-color: #cdcdcd;
+}
+
+.main-section{
+    background-color: black;
+    color: #ffffff;
+
+} */
+/* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@300&family=Poppins&display=swap');
+
+.text-green{
+    color:rgb(2, 92, 84)
+}
+
+.background{
+    background: rgb(197, 240, 220);
+}
+
+.text-background{
+    background-color: rgb(8, 245, 0);
+}
+
+.font-style{
+    font-family: Poppins;
+} */
+
+/* 
+*{
+    color:burlywood;
+} */
+
+/* 
+header{
+    background-color: #f0ebeb;
+}
+
+section.My-articles{
+    background-color: bisque;
+
+}
+p{
+    color:crimson;
+}
+
+header p{
+    color:cyan;
+}
+
+li a{
+    color:red;
+}
+
+/* section.My-articles h2{
+    color: green;
+} */
+
+/* section.My-articles > h2{
+    color:green;
+}
+
+section.My-articles h2+p{
+    color:indianred;
+} */ 
+/* 
+input[type= "text" ]{
+    color:lightcoral;
+}
+
+input[type="password"]{
+    background-color: peachpuff;
+} */
+
+/* a[href *= "google"]{
+    color:purple;
+}
+
+a[href ^= "https:"]{
+    color:rosybrown;
+} */
+
+/* a[href $=".com"]{
+    color:sienna;
+} */
